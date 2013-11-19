@@ -1,0 +1,28 @@
+{
+  "name": "FixedHeader",
+  "version": "2.1.0",
+  "homepage": "https://github.com/markitosgv/FixedHeader",
+  "description": "Datatables Fixed Header",
+  "main": "js/FixedHeader.js",
+  "keywords": [
+    "fixed",
+    "header",
+    "datatables"
+  ],
+  "authors": [
+    "DataTables"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "*.html",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "latest",
+    "datatables": "1.9.4"
+  }
+}
